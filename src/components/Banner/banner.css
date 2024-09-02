@@ -1,0 +1,43 @@
+.ContainerBanner {
+    height: 950px;
+    width: 100%;
+    position: relative;
+    overflow: hidden; 
+}
+
+.ContainerBanner img {
+    width: 100%;
+    height: 100%; 
+    object-fit: cover; 
+}
+
+.divText {
+    width: 350px;
+    height: 300px;
+    position: absolute;
+    top: 40%; 
+    left: 18%; 
+    transform: translate(-50%, -50%); 
+    color: white; 
+    text-align: center; 
+   
+    
+}
+
+.divText h1{
+    font-family: "DM Serif Text", serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 60px;
+    text-align: justify;
+    color: #735025;
+}
+
+.divText p{
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    text-align:start;
+    padding: 25px;
+}

@@ -1,0 +1,18 @@
+.container{
+    z-index: 1;
+    position: fixed;
+    background-color: white;
+    height: 100px;
+    width: 100%;
+    display: block;
+  
+}
+
+.container img{
+    position: fixed;
+    margin-left: 40%;
+    margin-top: 25px;
+    height: 50px;
+    width: 300px;
+}
+

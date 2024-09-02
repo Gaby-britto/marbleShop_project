@@ -1,0 +1,20 @@
+.containerInformation h1{
+    margin-top: 5px;
+    text-align: center;
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+
+    color: #735025;
+  }
+  
+  .containerInformation h2{
+    margin-top: 5px;
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+    color: #735025;
+  }

@@ -1,0 +1,34 @@
+.fixed {
+  background-image: url(https://www.tuacasa.com.br/wp-content/uploads/2017/03/tipos-de-marmore-00.jpg);
+  height: 600px;
+  width: 100%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  align-items: center;
+}
+.textFixed {
+  height: 300px;
+  width: 500px;
+  background-color: gray;
+  position: absolute;
+  top: 238%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  filter: alpha(opacity=50);
+        opacity: 0.5;
+        -moz-opacity: 0.5;
+        -webkit-opacity: 0.5;
+}
+
+.textFixed h1{
+    padding: 52px;
+    color: white;
+    text-align: center;
+}
+
+.textFixed h2{
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
